@@ -1,0 +1,5 @@
+StringExt
+=========
+
+Extending String with a class function rand(len) to generate a random string of
+'printable' characters of 'len' length.
