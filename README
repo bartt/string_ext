@@ -1,5 +1,15 @@
-StringExt
-=========
+= String Ext
 
 Extending String with a class function rand(len) to generate a random string of
 'printable' characters of 'len' length.
+
+== Example usage
+
+  >> String.rand(10) 
+  => "LACmrbvbU}"
+  >> String.rand(10) 
+  => "[c\\k@psUOd"
+
+== License & Author
+
+:include: LICENSE
