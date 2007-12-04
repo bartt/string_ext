@@ -1,0 +1,7 @@
+author: Bart Teeuwisse
+summary: Extending String with a class function rand(len) to generate a random string of 'printable' characters of 'len' length.
+homepage: http://thecodemill.biz/
+plugin: http://thecodemill.biz/repository/plugins/string_ext
+license: LGPL
+version: 1.0
+rails_version: 1.2+
