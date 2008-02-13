@@ -1,14 +1,14 @@
 = String Ext
 
-Extending String with a class function rand(len) to generate a random string of
-'printable' characters of 'len' length.
+Extending String with a class function <code>rand(len)</code> to generate a random string of
+'printable' characters of length +len+.
 
 == Example usage
 
   >> String.rand(10) 
-  => "LACmrbvbU}"
+  => "pVYWJb26gj"
   >> String.rand(10) 
-  => "[c\\k@psUOd"
+  => "RgQcOqNS5N"
 
 == License & Author
 
