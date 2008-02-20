@@ -1,4 +1,4 @@
 # Include hook code here
 
-require 'rand.rb'
+require 'rand'
 String.send(:extend, StringMixin)
